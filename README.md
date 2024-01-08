@@ -16,3 +16,4 @@ More info can be found in their own page [here](https://adventofcode.com/2023/ab
 |[Day 4: Scratchcards](https://adventofcode.com/2023/day/4)|⭐⭐|
 |[Day 5: If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5)|⭐⭐|
 |[Day 6: Wait For It](https://adventofcode.com/2023/day/6)|⭐⭐|
+|[Day 7: Camel Cards](https://adventofcode.com/2023/day/7)|⭐⭐|
